@@ -1,4 +1,4 @@
-# [atet](https://github.com/atet) / [learn](https://github.com/atet/learn/blob/master/README.md#atet--learn) / [**_capture_**](https://github.com/atet/learn/blob/master/capture/README.md#atet--learn--capture)
+# [atet](https://github.com/atet) / [**_capture_**](https://github.com/atet/capture?tab=readme-ov-file#atet--capture)
 
 [![.img/logo_sharex.png](.img/logo_sharex.png)](#nolink)
 
@@ -220,12 +220,12 @@ E.g. 20191219_153405023.png
 
 ## 7. Next Steps
 
-**This is part of a two-tutorial series on capturing and transcoding videos: When you're done here, please see [Atet's 15 Minute Introduction to Video Transcoding](https://github.com/atet/learn/blob/master/codec/README.md#atet--learn--codec)**
+**This is part of a two-tutorial series on capturing and transcoding videos: When you're done here, please see [Atet's 15 Minute Introduction to Video Transcoding](https://github.com/atet/codec?tab=readme-ov-file#atet--codec)**
 
 * ShareX has some basic editing tools, but you may need more powerful programs to manipulate images, animated GIFs, and/or video
 * The following are free, open-source programs that have advanced editing tools:
 
-**I highly recommend learning how to use the powerful `ffmpeg` program next in [Atet's 15 Minute Introduction to Video Transcoding](https://github.com/atet/learn/blob/master/codec/README.md#atet--learn--codec)**
+**I highly recommend learning how to use the powerful `ffmpeg` program next in [Atet's 15 Minute Introduction to Video Transcoding](https://github.com/atet/codec?tab=readme-ov-file#atet--codec)**
 
 Program | Format | Image Manipulation | GIF Animation Manipulation & Transcoding | Video Transcoding
 --- | --- | --- | --- | ---
